@@ -226,6 +226,9 @@ const About: React.FC = () => {
           </div>
         </div>
       </section>
+            <div style={{ maxWidth: "100%", height: "100px", overflow: "hidden", margin: "20px 0" }}>
+      <GoogleAds client="ca-pub-3212295126356413" slot="5680085553" format={AdSenseFormat.AUTO} dataFullWidthResponsive={false} />
+      </div>
 
       {/* Our Team */}
       <section className="py-20">
