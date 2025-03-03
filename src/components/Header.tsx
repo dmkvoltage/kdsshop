@@ -94,6 +94,18 @@ const Header: React.FC = () => {
                 Products
               </Link>
               <Link
+                to="/about"
+                className="block px-3 py-2 text-base font-medium text-gray-700 hover:text-blue-600"
+              >
+                About Us
+              </Link>
+              <Link
+                to="/services"
+                className="block px-3 py-2 text-base font-medium text-gray-700 hover:text-blue-600"
+              >
+                Services
+              </Link>
+              <Link
                 to="/cart"
                 className="block px-3 py-2 text-base font-medium text-gray-700 hover:text-blue-600"
               >
