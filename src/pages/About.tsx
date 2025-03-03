@@ -12,6 +12,7 @@ import {
 import { Link } from 'react-router-dom';
 import { Apple as WhatsApp } from 'lucide-react';
 import { MessageSquare } from 'lucide-react';
+import GoogleAds, { AdSenseFormat } from '../GoogleAds';
 
 const teamMembers = [
   {
